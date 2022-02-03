@@ -5,7 +5,7 @@
 
 
 
-public class Mod3hwq2 {
+public class Mod3hw1q2 {
   public static void main(String[] args) {
     int day = 6;
     switch (day) {
