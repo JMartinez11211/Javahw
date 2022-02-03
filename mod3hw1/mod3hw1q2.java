@@ -7,7 +7,7 @@
 
 public class Mod3hw1q2 {
   public static void main(String[] args) {
-    int day = 6;
+    int day = 8;
     switch (day) {
       case 1:
         System.out.println("Monday");
@@ -30,6 +30,8 @@ public class Mod3hw1q2 {
       case 7:
         System.out.println("Sunday");
         break;
+         default:
+        System.out.println("Invalid Input");
     }
   }
 }
