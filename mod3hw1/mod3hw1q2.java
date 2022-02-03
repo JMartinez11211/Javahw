@@ -30,7 +30,11 @@ public class Mod3hw1q2 {
       case 7:
         System.out.println("Sunday");
         break;
+<<<<<<< HEAD
          default:
+=======
+      default:
+>>>>>>> 1c818d49163508fb406d8d36a7c54c403e8376a6
         System.out.println("Invalid Input");
     }
   }
